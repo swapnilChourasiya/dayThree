@@ -1,4 +1,2 @@
 Line One
-Line Two
-Line Three
 Continue working on master branch
